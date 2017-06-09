@@ -1,0 +1,11 @@
+com\websystique\spring\messaging\MessageReceiver.class
+com\websystique\spring\configuration\ConsumerApplication.class
+com\websystique\spring\model\Product.class
+com\websystique\spring\service\OrderServiceImpl.class
+com\websystique\spring\model\InventoryResponse.class
+com\websystique\spring\util\BasicUtil.class
+com\websystique\spring\configuration\MessagingConfiguration.class
+com\websystique\spring\messaging\MessageSender.class
+com\websystique\spring\configuration\AppConfig.class
+com\websystique\spring\service\OrderService.class
+com\websystique\spring\messaging\MessageSender$1.class
