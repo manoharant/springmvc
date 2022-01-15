@@ -11,9 +11,9 @@
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<springframework.version>4.3.1.RELEASE</springframework.version>
-		<springsecurity.version>4.1.1.RELEASE</springsecurity.version>
-		<jackson.library>2.7.5</jackson.library>
+		<springframework.version>5.2.19.RELEASE</springframework.version>
+		<springsecurity.version>5.2.9.RELEASE</springsecurity.version>
+		<jackson.library>2.10.0</jackson.library>
 	</properties>
 
 	<dependencies>
